@@ -7,7 +7,7 @@ INFORMAÇÕES IMPORTANTES:
 
 COMANDOS QUE PROVAVELMENTE VOCÊS USARÃO:
 
-### git init =
+- ### git init =
 	
 	-Cria uma pasta git para a pasta
 	
