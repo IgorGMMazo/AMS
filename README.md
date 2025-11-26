@@ -1,5 +1,4 @@
 # AMS
-Esse repositório será feito com o intuito de fazermos em grupo nosso último trabalho de AMS.
 
 INFORMAÇÕES IMPORTANTES:
 - Nunca subam as alterações direto na branch MAIN, subam apenas para a branch HOM, nossa branch hom é nosso teste de validção, após validado iremos colocar na branch MAIN.
